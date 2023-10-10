@@ -1,3 +1,6 @@
+## Why i used this template?
+i m trying to thirdweb which provide starter template to get started  , its cool . :D
+
 ## Getting Started
 
 Create a project using this example:
